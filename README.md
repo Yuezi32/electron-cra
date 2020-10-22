@@ -6,8 +6,11 @@ Electron/Create-React-App/Antd搭建标准工程。
 ### 版本号
 
 electron 10.1.4
+
 react 16.14.0
+
 antd 4.7.2
+
 electron-builder 22.9.1
 
 ## 教程
